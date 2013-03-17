@@ -1,0 +1,13 @@
+{
+  "name": "appmessagegiver",
+  "version": "0.0.1",
+  "description": "Dole out messages",
+  "author": "Harish Kamath <harishnk@gmail.com>",
+  "dependencies": {
+    "restify": ">= 2.0.4",
+    "mongoose": ">= 3.5.4"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
